@@ -1,0 +1,32 @@
+.gaby{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .vit{
+     background-color: #333;
+     color: #fff;
+     padding: 40px;
+     margin: 10px;
+     border-radius: 2mm;
+ }
+ 
+ .int{
+     background-color: #333;
+     color: #fff;
+     padding: 40px;
+     margin: 10px;
+     border-radius: 2mm;
+ }
+ 
+ .roza{
+     background-color: #333;
+     color: #fff;
+     padding: 40px;
+     margin: 10px;
+     border-radius: 2mm;
+ }
+
